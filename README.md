@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/UsmanZafar-dev/UsmanZafar-dev/main/Banner.png" width="100%">
-</p>
-
 <h1 align="center">Hi 👋, I'm Usman Zafar</h1>
 
 <p align="center">
@@ -157,18 +153,6 @@ An interactive word puzzle game designed to strengthen logical thinking and prob
 <img src="https://streak-stats.demolab.com?user=UsmanZafar-dev&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UsmanZafar-dev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=UsmanZafar-dev&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
