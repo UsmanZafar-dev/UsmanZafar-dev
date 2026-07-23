@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Usman Zafar</h1>
 
+<h3 align="center">
+Software Engineer • AI & Machine Learning Enthusiast • Mobile Application Developer
+</h3>
+
 <p align="center">
 Building intelligent software that solves real-world problems through modern software engineering and AI.
 </p>
@@ -14,16 +18,16 @@ Building intelligent software that solves real-world problems through modern sof
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/usman-zafar-a46269247/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/usman-zafar-a46269247/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:usmang2624@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://github.com/UsmanZafar-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/UsmanZafar-dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
@@ -44,7 +48,7 @@ I believe in writing clean, maintainable code while continuously learning new te
 
 ---
 
-# 🚀 Current Focus
+#  Current Focus
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 📱 Mobile Application Development
@@ -58,83 +62,58 @@ I believe in writing clean, maintainable code while continuously learning new te
 # 💻 Tech Stack
 
 ### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-Python • Java • Kotlin • JavaScript • C++
+### 📱 Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
 ### 🎨 Frontend
-
-React • Next.js • HTML • CSS • Tailwind CSS • Bootstrap
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙ Backend
-
-Node.js • FastAPI • MongoDB • JWT
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🧠 AI / ML
-
-TensorFlow • PyTorch • Scikit-Learn • Pandas • NumPy • OpenCV • FashionCLIP
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![FashionCLIP](https://img.shields.io/badge/FashionCLIP-AI-blue?style=for-the-badge)
 
 ### 🗄 Databases
-
-MongoDB • MySQL • SQL Server
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ☁ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-AWS • Docker • Git • GitHub
+### 🔄 Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🛠 Tools
-
-Android Studio • VS Code • Postman • Figma • Canva • Jupyter Notebook
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 INFITRON – Tailored by Intelligence
-**AI-Powered Smart Wardrobe & Virtual Fashion Assistant**
-
-An intelligent wardrobe management platform that transforms a traditional wardrobe into a smart digital assistant. It combines Artificial Intelligence, Machine Learning, Computer Vision, Augmented Reality, and contextual AI to provide personalized outfit recommendations, wardrobe digitization, virtual try-on experiences, AI-powered fashion assistance, voice interaction, smart laundry management, donation tracking, and sustainability insights.
-
-**Tech Stack:** Kotlin • FastAPI • Python • TensorFlow • FashionCLIP • MediaPipe • MongoDB • OpenWeather API • Google Calendar API • Groq AI
-
----
-
-### 💬 Toxic Comment Classification
-
-An NLP-based machine learning system that automatically detects and classifies toxic online comments, helping create safer digital communities through intelligent text classification.
-
-**Tech Stack:** Python • Scikit-learn • Pandas • NumPy • NLP
-
----
-
-### 🚚 Truck Dispatching Mobile App
-
-A logistics management application that streamlines truck dispatching, delivery assignments, and real-time shipment tracking through an intuitive Android application.
-
-**Tech Stack:** Kotlin • Android Studio
-
----
-
-### 🏠 House Price Prediction System
-
-A machine learning application that predicts residential property prices using regression models, feature engineering, and comprehensive data preprocessing techniques.
-
-**Tech Stack:** Python • Scikit-learn • Pandas • NumPy • Matplotlib
-
----
-
-### 🌳 AVL Tree Implementation & Operations
-
-A complete implementation of a self-balancing AVL Tree supporting insertion, deletion, searching, traversals, rotations, height calculation, diameter computation, predecessor/successor operations, and automatic balancing.
-
-**Tech Stack:** C++
-
----
-
-### 🎮 Word Puzzle Game
-
-An interactive word puzzle game designed to strengthen logical thinking and problem-solving through engaging gameplay and intuitive user interaction.
-
-**Tech Stack:** C++
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
 
@@ -142,15 +121,9 @@ An interactive word puzzle game designed to strengthen logical thinking and prob
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=UsmanZafar-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanZafar-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=UsmanZafar-dev&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-stats.shion.dev/api?username=UsmanZafar-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=UsmanZafar-dev&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=UsmanZafar-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </p>
 
